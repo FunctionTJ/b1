@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>TEST</title>
+        <style>
+            div{
+                text-align:center;
+                background:#909090;
+            }
+            #i1{
+                width:18px;
+            }
+        </style>
+    </head>
+    <body>
+        <div>
+        <p>HELLO, I am ready.</p>
+        </div>
+        <h1 style='font-align:center'>TEST</h1>
+    </body>
+</html>
